@@ -1,8 +1,8 @@
 # HTML Fundamentals Assessment
 
 ##  Student Details
-- **Full Name:** Your Full Name  
-- **Student ID:** Your Student ID  
+- Full Name: swathi
+- tudent ID:12345
 
 ---
 
