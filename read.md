@@ -1,8 +1,8 @@
 # HTML Fundamentals Assessment
 
 ##  Student Details
-- **Full Name:swathi
-- **Student ID:12345 
+- **Full Name:p.swathi 
+- **Student ID:123456
 
 ---
 
